@@ -29,7 +29,7 @@ int main()
     //  \0 caractere nulo
     //  \v tabulacao vertical
     //  \\ caractere \
-// \' caractere '
+    // \' caractere '
     //  \" caractere "
     //  \? caractere ?
     //  \123 caractere relacionado ao codigo 123 em octal (ascii)
