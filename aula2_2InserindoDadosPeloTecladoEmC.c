@@ -12,6 +12,6 @@ int main()
     scanf("%f", &peso);
 
     printf("Idade Informada: %d.\n", idade);
-    printf("Peso Informado: %.2f.\n", peso);
+    printf("peso Informado: %.2f.\n", peso);
 
 }
